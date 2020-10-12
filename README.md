@@ -31,7 +31,7 @@
    
     l_merge.sort()
    
-    print(l.merge)
+    print(l_merge)
     
     
 4.  PYTHON PROGRAM TO SWAP THE FIRST AND LAST VALUE OF A LIST --------------------------
